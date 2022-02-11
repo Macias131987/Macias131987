@@ -1,10 +1,51 @@
-- 👋 Hi, I’m @Macias131987
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Macias131987/Macias131987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+exit.
+  .gitignore
+  .goreleaser.yml
+  LICENSE
+  Makefile
+  README.md
+  SETUP_NODE.md
+  api/account.go
+  api/account_test.go
+  api/accountcreationauths.go
+  api/accountcreationauths_test.go
+  api/api.go
+  api/api_test.go
+  api/atomicpool.go
+  api/atomicpool_test.go
+  api/aux_test.go
+  api/batch.go
+  api/batch_test.go
+  api/bids.go
+  api/bids_test.go
+  api/config.go
+  api/config_test.go
+  api/coordinator.go
+  api/coordinator_test.go
+  api/docker-compose.yml
+  api/errors.go
+  api/exits.go
+  api/exits_test.go
+  api/handlers.go
+  api/health.go
+  api/health_test.go
+  api/parsers/account.go
+  api/parsers/accountcreationsauths.go
+  api/parsers/atomicpool.go
+  api/parsers/batch.go
+  api/parsers/bids.go
+  api/parsers/coordinator.go
+  api/parsers/exits.go
+  api/parsers/fiat.go
+  batchbuilder/batchbuilder.go
+  batchbuilder/batchbuilder_test.go
+  cmd/cbnode/.gitignore
+  cmd/cbnode/cfg.api.toml
+  cmd/cbnode/cfg.builder.toml
+  cmd/cbnode/load-sk-example.sh
+  cmd/cbnode/main.go
+  common/account.go
+  common/account_test.go
+  common/accountcreationauths.go
+  common/accountcreationauths_test.go
+  common/apitypes/apitypes.go
